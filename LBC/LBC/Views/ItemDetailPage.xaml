@@ -4,7 +4,7 @@
              x:Class="LBC.Views.ItemDetailPage"
              Title="{Binding Title}">
     <StackLayout Spacing="20" Padding="15">
-        <WebView VerticalOptions="FillAndExpand">
+        <WebView VerticalOptions="FillAndExpand" x:Name="webview">
             <WebView.Source>
                 <HtmlWebViewSource Html="{Binding Html}"/>
             </WebView.Source>

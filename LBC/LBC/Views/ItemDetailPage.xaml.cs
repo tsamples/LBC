@@ -33,12 +33,14 @@ namespace LBC.Views
             };
 
             viewModel = new ItemDetailViewModel(item);
+
             BindingContext = viewModel;
         }
         protected override void OnAppearing()
         {
             base.OnAppearing();
 
+            viewModel.LoadItemCommand.Execute(null);
             
         }
     }
