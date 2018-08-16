@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LBC.Models
 {
-    class PageContent
+    public class PageContent
     {
 
         public class Rootobject

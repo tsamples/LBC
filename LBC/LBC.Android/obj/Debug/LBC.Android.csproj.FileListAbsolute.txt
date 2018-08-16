@@ -30,6 +30,7 @@ C:\Users\Admin\Source\repos\LBC\LBC\LBC.Android\obj\Debug\android\assets\LBC.And
 C:\Users\Admin\Source\repos\LBC\LBC\LBC.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Admin\Source\repos\LBC\LBC\LBC.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Admin\Source\repos\LBC\LBC\LBC.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Admin\Source\repos\LBC\LBC\LBC.Android\obj\Debug\LBC.Droid.Views.MyTabbedPage1.xaml.g.cs
 C:\Users\Admin\Source\repos\LBC\LBC\LBC.Android\bin\Debug\LBC.Android.dll
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\Xamarin.Forms.Core.dll.mdb

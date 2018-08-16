@@ -25,15 +25,29 @@ namespace LBC.Views
             BindingContext = viewModel = new ItemsViewModel();
         }
 
+        public ItemsPage(List<Item> items)
+        {
+            InitializeComponent();
+
+            BindingContext = viewModel = new ItemsViewModel(items);
+        }
+
         async void OnItemSelected(object sender, SelectedItemChangedEventArgs args)
         {
             
             var item = args.SelectedItem as Item;
             if (item == null)
                 return;
-            
 
-            await Navigation.PushAsync(new ItemDetailPage(new ItemDetailViewModel(item)));
+            if (item.Menu != null && item.Menu.Count > 0)
+            {
+                await Navigation.PushAsync(new ItemsPage(item.Menu));
+                
+            } else
+            {
+                await Navigation.PushAsync(new ItemDetailPage(new ItemDetailViewModel(item)));
+            }
+
 
             // Manually deselect item.
             ItemsListView.SelectedItem = null;

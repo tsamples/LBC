@@ -13,7 +13,8 @@ namespace LBC
 			InitializeComponent();
 
 
-            MainPage = new NavigationPage(new ItemsPage());
+            //MainPage = new NavigationPage(new ItemsPage());
+            MainPage = new NavigationPage(new MyTabbedPage1());
         }
 
 		protected override void OnStart ()
@@ -32,3 +33,4 @@ namespace LBC
 		}
 	}
 }
+
