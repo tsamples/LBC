@@ -24,3 +24,15 @@ System.ComponentModel
 System.Reflection.Extensions
 Newtonsoft.Json
 netstandard
+Microsoft.AppCenter.Analytics.Android.Bindings
+Microsoft.AppCenter.Analytics
+Microsoft.AppCenter.Android.Bindings
+Microsoft.AppCenter.Crashes.Android.Bindings
+Microsoft.AppCenter.Crashes
+Microsoft.AppCenter
+Xamarin.GooglePlayServices.Base
+Xamarin.GooglePlayServices.Basement
+Xamarin.GooglePlayServices.Tasks
+Xamarin.Firebase.Common
+Xamarin.Firebase.Iid
+Xamarin.Firebase.Messaging

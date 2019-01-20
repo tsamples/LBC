@@ -2,6 +2,22 @@ LBC.Droid.MainActivity, LBC.Android;md5ed11a65007edf29ec0452c4d2002fff7.MainActi
 LBC.Droid.MainActivity, LBC.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ed11a65007edf29ec0452c4d2002fff7.MainActivity
 LBC.Droid.MainActivity;md5ed11a65007edf29ec0452c4d2002fff7.MainActivity
 lbc.droid.MainActivity;md5ed11a65007edf29ec0452c4d2002fff7.MainActivity
+Com.Microsoft.Appcenter.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.AppCenter.Analytics.Android.Bindings;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Appcenter.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.AppCenter.Analytics.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Appcenter.Analytics.Channel.IAnalyticsListenerImplementor;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
+mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Appcenter.Utils.NetworkStateHelper/IListenerImplementor, Microsoft.AppCenter.Android.Bindings;mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Appcenter.Utils.NetworkStateHelper+IListenerImplementor, Microsoft.AppCenter.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Appcenter.Utils.NetworkStateHelper.IListenerImplementor;mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor
+mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor;mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Appcenter.Crashes.ICrashesListenerImplementor, Microsoft.AppCenter.Crashes.Android.Bindings;mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor
+Com.Microsoft.Appcenter.Crashes.ICrashesListenerImplementor, Microsoft.AppCenter.Crashes.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor
+Com.Microsoft.Appcenter.Crashes.ICrashesListenerImplementor;mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor
+mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor;mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor
+Microsoft.AppCenter.Crashes.Crashes/AndroidCrashListener, Microsoft.AppCenter.Crashes;md5077d3f1b65f0ebbab0ee71c2383ed9a2.Crashes_AndroidCrashListener
+Microsoft.AppCenter.Crashes.Crashes+AndroidCrashListener, Microsoft.AppCenter.Crashes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5077d3f1b65f0ebbab0ee71c2383ed9a2.Crashes_AndroidCrashListener
+Microsoft.AppCenter.Crashes.Crashes.AndroidCrashListener;md5077d3f1b65f0ebbab0ee71c2383ed9a2.Crashes_AndroidCrashListener
+microsoft.appcenter.crashes.Crashes_AndroidCrashListener;md5077d3f1b65f0ebbab0ee71c2383ed9a2.Crashes_AndroidCrashListener
 Android.Support.V4.Widget.SearchViewCompat/IOnCloseListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat+IOnCloseListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat.IOnCloseListenerImplementor;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
